@@ -25,7 +25,7 @@ rng(2019);
 % };
 
 problems = { ...
-             truncated_svd_problem([], 210, 300, 25), ...
+              truncated_svd_problem([], 210, 300, 25), ...
               maxcut(22), ...
               maxcut(46), ...
               maxcut(50), ...
@@ -121,7 +121,7 @@ for P = 1 : nproblems
     totaliter = length([infos{P, 1}(:).accepted]);
     fprintf(fileID, 'rejections/total = %d / %d\n', rejnum, totaliter);
     for i=1:length(f1)
-        if strcmp(f1{i},'time') || strcmp(f1{i}, 'hesscalls') || strcmp(f1{i}, 'gradhesscalls') || strcmp(f1{i},'timeit') 
+        if strcmp(f1{i},'time') || strcmp(f1{i}, 'hesscalls') || strcmp(f1{i}, 'gradhesscalls') || strcmp(f1{i},'timeit') || strcmp(f1{i}, 'memory')
             continue;
         end
         assert(isequaln([infos{P, 1}(:).(f1{i})],[infos{P, 2}(:).(f1{i})]));
@@ -135,15 +135,16 @@ subplot_rows = 3;
 subplot_cols = 2;
 assert(subplot_rows * subplot_cols >= nproblems, ...
        sprintf('Choose subplot size to fit all %d problems.', nproblems));
-xmetric = {'iter',     'time',     'gradhesscalls', 'timeit'};
-xscale  = {'linear',   'linear',   'linear', 'linear'};
-ymetric = {'gradnorm', 'gradnorm', 'gradnorm', 'gradnorm'};
-yscale  = {'log',      'log',      'log', 'log'};
+xmetric = {'iter',     'time',     'gradhesscalls', 'timeit', 'iter'};
+xscale  = {'linear',   'linear',   'linear', 'linear', 'linear'};
+ymetric = {'gradnorm', 'gradnorm', 'gradnorm', 'gradnorm', 'memory'};
+yscale  = {'log',      'log',      'log', 'log', 'log'};
 axisnames.iter = 'Iteration #';
 axisnames.time = 'Time [s]';
 axisnames.gradhesscalls = '# gradient calls and Hessian-vector products';
 axisnames.gradnorm = 'Gradient norm';
 axisnames.timeit = 'timeit [s]';
+axisnames.memory = 'memory [MB]';
 nmetrics = numel(xmetric);
 assert(numel(ymetric) == nmetrics);
 for metric = 1 : nmetrics
