@@ -1,0 +1,30 @@
+	with RTR_cached.
+timeit = 34.968997 [s].
+	with RTR.
+timeit = 34.912738 [s].
+rejections/total = 0 / 24
+	with RTR_cached.
+timeit = 4.688280 [s].
+	with RTR.
+timeit = 4.758929 [s].
+rejections/total = 1 / 17
+	with RTR_cached.
+timeit = 9.827245 [s].
+	with RTR.
+timeit = 14.872910 [s].
+rejections/total = 8 / 32
+	with RTR_cached.
+timeit = 4.401309 [s].
+	with RTR.
+timeit = 4.412619 [s].
+rejections/total = 0 / 15
+	with RTR_cached.
+timeit = 0.326982 [s].
+	with RTR.
+timeit = 0.325219 [s].
+rejections/total = 0 / 5
+	with RTR_cached.
+timeit = 2.027012 [s].
+	with RTR.
+timeit = 2.012001 [s].
+rejections/total = 0 / 7
