@@ -1,0 +1,25 @@
+	with RTR_cached.
+timeit = 1.000000 [s].
+	with RTR.
+timeit = 1.000000 [s].
+rejections/total = 0 / 24
+	with RTR_cached.
+timeit = 1.000000 [s].
+	with RTR.
+timeit = 1.000000 [s].
+rejections/total = 1 / 17
+	with RTR_cached.
+timeit = 1.000000 [s].
+	with RTR.
+timeit = 1.000000 [s].
+rejections/total = 8 / 31
+	with RTR_cached.
+timeit = 1.000000 [s].
+	with RTR.
+timeit = 1.000000 [s].
+rejections/total = 0 / 5
+	with RTR_cached.
+timeit = 1.000000 [s].
+	with RTR.
+timeit = 1.000000 [s].
+rejections/total = 0 / 7

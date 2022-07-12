@@ -1,0 +1,5 @@
+	with RTR_cached.
+timeit = 1.000000 [s].
+	with RTR.
+timeit = 1.000000 [s].
+rejections/total = 1 / 18

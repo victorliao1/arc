@@ -1,0 +1,1229 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=mex 2020.4.7)  6 JUL 2022 15:07
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**spmaskmult.mexmaci64
+(./spmaskmult.mexmaci64
+This is MeX  Version 1.05  18 XII 1993  (B. Jackowski & M. Ry\'cko)
+Missing character: There is no œ in font plr10!
+Missing character: There is no ˙ in font plr10!
+Missing character: There is no Ì in font plr10!
+Missing character: There is no ˛ in font plr10!
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   ^^A
+l.1 œ˙Ì˛^^G^^@^^@^^A
+                    ^^C^^@^^@^^@^^H^^@^^@^^@^^N^^@^^@^^@@^^E^^@^^@Ö^^@^^@^^@...
+
+? Q
+OK, entering \batchmode...
+! Missing { inserted.
+<to be read again> 
+                   _
+l.1 ...@^^@^^@^^@^^@^^@^^@^^Y^^@^^@^^@(^^B^^@^^@__
+                                                  TEXT^^@^^@^^@^^@^^@^^@^^@^...
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+! Missing { inserted.
+<to be read again> 
+                   _
+l.1 ...^@^^@^^E^^@^^@^^@^^F^^@^^@^^@^^@^^@^^@^^@__
+                                                  text^^@^^@^^@^^@^^@^^@^^@^...
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+! Missing { inserted.
+<to be read again> 
+                   _
+l.1 ...^@^^@__text^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@__
+                                                  TEXT^^@^^@^^@^^@^^@^^@^^@^...
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+! Missing { inserted.
+<to be read again> 
+                   _
+l.3 ...D^^@Ä^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@__
+                                                  stubs^^@^^@^^@^^@^^@^^@^^@...
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+! Missing { inserted.
+<to be read again> 
+                   _
+l.3 ...@^^@^^@__stubs^^@^^@^^@^^@^^@^^@^^@^^@^^@__
+                                                  TEXT^^@^^@^^@^^@^^@^^@^^@^...
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+! Missing { inserted.
+<to be read again> 
+                   _
+l.5 ...D^^@Ä^^@^^@^^@^^@^^F^^@^^@^^@^^@^^@^^@^^@__
+                                                  stub_helper^^@^^@^^@__TEXT...
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+! Missing { inserted.
+<to be read again> 
+                   _
+l.5 ...@^^@^^@^^@^^@^^@^^@__stub_helper^^@^^@^^@__
+                                                  TEXT^^@^^@^^@^^@^^@^^@^^@^...
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+! Missing { inserted.
+<to be read again> 
+                   _
+l.7 ...D^^@Ä^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@__
+                                                  cstring^^@^^@^^@^^@^^@^^@^...
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+! Missing { inserted.
+<to be read again> 
+                   _
+l.7 ...^@^^@^^@^^@__cstring^^@^^@^^@^^@^^@^^@^^@__
+                                                  TEXT^^@^^@^^@^^@^^@^^@^^@^...
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+! Missing { inserted.
+<to be read again> 
+                   _
+l.7 ...^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@__
+                                                  unwind_info^^@^^@^^@__TEXT...
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+! Missing { inserted.
+<to be read again> 
+                   _
+l.7 ...@^^@^^@^^@^^@^^@^^@__unwind_info^^@^^@^^@__
+                                                  TEXT^^@^^@^^@^^@^^@^^@^^@^...
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+! Missing { inserted.
+<to be read again> 
+                   _
+l.7 ...^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@__
+                                                  eh_frame^^@^^@^^@^^@^^@^^@...
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+! Missing { inserted.
+<to be read again> 
+                   _
+l.7 ...@^^@^^@^^@^^@__eh_frame^^@^^@^^@^^@^^@^^@__
+                                                  TEXT^^@^^@^^@^^@^^@^^@^^@^...
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+! Missing { inserted.
+<to be read again> 
+                   _
+l.7 ...@^^@^^@^^@^^@^^@^^@^^Y^^@^^@^^@Ë^^@^^@^^@__
+                                                  DATA^^@^^@^^@^^@^^@^^@^^@^...
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+! Missing { inserted.
+<to be read again> 
+                   _
+l.7 ...^@^^@^^C^^@^^@^^@^^B^^@^^@^^@^^@^^@^^@^^@__
+                                                  nl_symbol_ptr^^@__DATA^^@^...
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+! Missing { inserted.
+<to be read again> 
+                   _
+l.7 ...^B^^@^^@^^@^^@^^@^^@^^@__nl_symbol_ptr^^@__
+                                                  DATA^^@^^@^^@^^@^^@^^@^^@^...
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+! Missing { inserted.
+<to be read again> 
+                   _
+l.7 ...@^^@^^@	^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@__
+                                                  la_symbol_ptr^^@__DATA^^@^...
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+! Missing { inserted.
+<to be read again> 
+                   _
+l.7 ...^@^^@^^@^^@^^@^^@^^@^^@__la_symbol_ptr^^@__
+                                                  DATA^^@^^@^^@^^@^^@^^@^^@^...
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+! Missing { inserted.
+<to be read again> 
+                   _
+l.7 ...@^^@^^@^^@^^@^^@^^@^^Y^^@^^@^^@H^^@^^@^^@__
+                                                  LINKEDIT^^@^^@^^@^^@^^@^^@...
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+! Missing { inserted.
+<to be read again> 
+                   ^^A
+l.7 ...@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^A^^@^^@^^@^^A
+                                                  ^^@^^@^^@
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+! Missing } inserted.
+<inserted text> 
+                }
+<to be read again> 
+                   $
+l.8 ...[^^@^^@^^@^^X^^@^^@^^@ñ–¯√^^_^^Z3©®ç◊©öc∆{$
+                                                  ^^@^^@^^@^^P^^@^^@^^@^^@^^G
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+<to be read again> 
+                   $
+l.8 ...[^^@^^@^^@^^X^^@^^@^^@ñ–¯√^^_^^Z3©®ç◊©öc∆{$
+                                                  ^^@^^@^^@^^P^^@^^@^^@^^@^^G
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+<to be read again> 
+                   $
+l.8 ...[^^@^^@^^@^^X^^@^^@^^@ñ–¯√^^_^^Z3©®ç◊©öc∆{$
+                                                  ^^@^^@^^@^^P^^@^^@^^@^^@^^G
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+<to be read again> 
+                   $
+l.8 ...[^^@^^@^^@^^X^^@^^@^^@ñ–¯√^^_^^Z3©®ç◊©öc∆{$
+                                                  ^^@^^@^^@^^P^^@^^@^^@^^@^^G
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+<to be read again> 
+                   $
+l.8 ...[^^@^^@^^@^^X^^@^^@^^@ñ–¯√^^_^^Z3©®ç◊©öc∆{$
+                                                  ^^@^^@^^@^^P^^@^^@^^@^^@^^G
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+<to be read again> 
+                   $
+l.8 ...[^^@^^@^^@^^X^^@^^@^^@ñ–¯√^^_^^Z3©®ç◊©öc∆{$
+                                                  ^^@^^@^^@^^P^^@^^@^^@^^@^^G
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+<to be read again> 
+                   $
+l.8 ...[^^@^^@^^@^^X^^@^^@^^@ñ–¯√^^_^^Z3©®ç◊©öc∆{$
+                                                  ^^@^^@^^@^^P^^@^^@^^@^^@^^G
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+<to be read again> 
+                   $
+l.8 ...[^^@^^@^^@^^X^^@^^@^^@ñ–¯√^^_^^Z3©®ç◊©öc∆{$
+                                                  ^^@^^@^^@^^P^^@^^@^^@^^@^^G
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+<to be read again> 
+                   $
+l.8 ...[^^@^^@^^@^^X^^@^^@^^@ñ–¯√^^_^^Z3©®ç◊©öc∆{$
+                                                  ^^@^^@^^@^^P^^@^^@^^@^^@^^G
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+<to be read again> 
+                   $
+l.8 ...[^^@^^@^^@^^X^^@^^@^^@ñ–¯√^^_^^Z3©®ç◊©öc∆{$
+                                                  ^^@^^@^^@^^P^^@^^@^^@^^@^^G
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+<to be read again> 
+                   $
+l.8 ...[^^@^^@^^@^^X^^@^^@^^@ñ–¯√^^_^^Z3©®ç◊©öc∆{$
+                                                  ^^@^^@^^@^^P^^@^^@^^@^^@^^G
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+<to be read again> 
+                   $
+l.8 ...[^^@^^@^^@^^X^^@^^@^^@ñ–¯√^^_^^Z3©®ç◊©öc∆{$
+                                                  ^^@^^@^^@^^P^^@^^@^^@^^@^^G
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+<to be read again> 
+                   $
+l.8 ...[^^@^^@^^@^^X^^@^^@^^@ñ–¯√^^_^^Z3©®ç◊©öc∆{$
+                                                  ^^@^^@^^@^^P^^@^^@^^@^^@^^G
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+<to be read again> 
+                   $
+l.8 ...[^^@^^@^^@^^X^^@^^@^^@ñ–¯√^^_^^Z3©®ç◊©öc∆{$
+                                                  ^^@^^@^^@^^P^^@^^@^^@^^@^^G
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+<to be read again> 
+                   $
+l.8 ...[^^@^^@^^@^^X^^@^^@^^@ñ–¯√^^_^^Z3©®ç◊©öc∆{$
+                                                  ^^@^^@^^@^^P^^@^^@^^@^^@^^G
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+<to be read again> 
+                   $
+l.8 ...[^^@^^@^^@^^X^^@^^@^^@ñ–¯√^^_^^Z3©®ç◊©öc∆{$
+                                                  ^^@^^@^^@^^P^^@^^@^^@^^@^^G
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+<to be read again> 
+                   $
+l.8 ...[^^@^^@^^@^^X^^@^^@^^@ñ–¯√^^_^^Z3©®ç◊©öc∆{$
+                                                  ^^@^^@^^@^^P^^@^^@^^@^^@^^G
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+<to be read again> 
+                   $
+l.8 ...[^^@^^@^^@^^X^^@^^@^^@ñ–¯√^^_^^Z3©®ç◊©öc∆{$
+                                                  ^^@^^@^^@^^P^^@^^@^^@^^@^^G
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+<to be read again> 
+                   $
+l.8 ...[^^@^^@^^@^^X^^@^^@^^@ñ–¯√^^_^^Z3©®ç◊©öc∆{$
+                                                  ^^@^^@^^@^^P^^@^^@^^@^^@^^G
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+<to be read again> 
+                   $
+l.8 ...[^^@^^@^^@^^X^^@^^@^^@ñ–¯√^^_^^Z3©®ç◊©öc∆{$
+                                                  ^^@^^@^^@^^P^^@^^@^^@^^@^^G
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+<to be read again> 
+                   $
+l.8 ...[^^@^^@^^@^^X^^@^^@^^@ñ–¯√^^_^^Z3©®ç◊©öc∆{$
+                                                  ^^@^^@^^@^^P^^@^^@^^@^^@^^G
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+Missing character: There is no Ö in font plr10!
+Missing character: There is no – in font plr5!
+Missing character: There is no ∞ in font plr5!
+Missing character: There is no – in font plr5!
+Missing character: There is no Ä in font plr5!
+Missing character: There is no Ä in font plr5!
+Missing character: There is no Ä in font plr5!
+Missing character: There is no Ä in font plr5!
+Missing character: There is no ∏ in font plr5!
+Missing character: There is no ∏ in font plr5!
+Missing character: There is no Ä in font plr5!
+Missing character: There is no ® in font plr5!
+Missing character: There is no ® in font plr5!
+Missing character: There is no Ë in font plr5!
+Missing character: There is no Ä in font plr5!
+Missing character: There is no Ä in font plr5!
+Missing character: There is no ® in font plr5!
+Missing character: There is no » in font plr5!
+Missing character: There is no Ë in font plr5!
+Missing character: There is no Ë in font plr5!
+Missing character: There is no ò in font plr5!
+Missing character: There is no ò in font plr5!
+Missing character: There is no ñ in font plr5!
+Missing character: There is no – in font plr5!
+Missing character: There is no ¯ in font plr5!
+Missing character: There is no √ in font plr5!
+Missing character: There is no © in font plr5!
+Missing character: There is no ® in font plr5!
+Missing character: There is no ç in font plr5!
+Missing character: There is no ◊ in font plr5!
+Missing character: There is no © in font plr5!
+Missing character: There is no ö in font plr5!
+Missing character: There is no ∆ in font plr5!
+
+Overfull \hbox (493.08446pt too wide) in paragraph at lines 1--9
+[]\tenrm ^^G$[]\teni ^^U\tensy 1\tenrm @\tensy : ! \tenrm (\teni []$\tenrm ^^P
+^^G |
+
+\hbox(7.5+38.29338)x469.75499
+.\hbox(0.0+0.0)x20.0
+.\tenrm ^^G
+.\mathon
+.\hbox(4.8611+1.3611)x5.39413, shifted 1.49998
+..\seveni ^^L
+.\teni ^^U
+.etc.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.9 ...^B^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@@loader_
+                                                  path/libmx.dylib^^@^^@^^@^...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.9 ...path/libmx.dylib^^@^^@^^@^^@^^@^^@^^@^^@^^L
+                                                  ^^@^^@^^@8^^@^^@^^@^^X^^@^...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.9 ...^B^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@@loader_
+                                                  path/libmex.dylib^^@^^@^^@...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.9 ...r_path/libmex.dylib^^@^^@^^@^^@^^@^^@^^@^^L
+                                                  ^^@^^@^^@8^^@^^@^^@^^X^^@^...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.9 ...^B^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@@loader_
+                                                  path/libmat.dylib^^@^^@^^@...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.9 ...r_path/libmat.dylib^^@^^@^^@^^@^^@^^@^^@^^L
+                                                  ^^@^^@^^@8^^@^^@^^@^^X^^@^...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+Missing character: There is no ü in font plr10!
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   ^^A
+l.9 ...^^X^^@^^@^^@^^B^^@^^@^^@^^@^^@ü^^@^^@^^@^^A
+                                                  ^^@/usr/lib/libSystem.B.dy...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Misplaced alignment tab character &.
+l.9 ...sr/lib/libSystem.B.dylib^^@^^@^^@^^@^^@^^@&
+                                                  ^^@^^@^^@^^P^^@^^@^^@‡ ^^@...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+Missing character: There is no ‡ in font plr10!
+Missing character: There is no â in font plr10!
+Missing character: There is no Â in font plr10!
+Missing character: There is no É in font plr10!
+Missing character: There is no Ï in font plr10!
+Missing character: There is no â in font plr10!
+Missing character: There is no ® in font plr10!
+Missing character: There is no â in font plr10!
+Missing character: There is no Ã in font plr10!
+Missing character: There is no É in font plr10!
+Missing character: There is no ˙ in font plr10!
+Missing character: There is no Ñ in font plr10!
+Missing character: There is no ç in font plr10!
+Missing character: There is no Ë in font plr10!
+Missing character: There is no É in font plr10!
+Missing character: There is no ç in font plr10!
+Missing character: There is no â in font plr10!
+Missing character: There is no ∞ in font plr10!
+Missing character: There is no Ë in font plr10!
+Missing character: There is no † in font plr10!
+Missing character: There is no ç in font plr10!
+Missing character: There is no â in font plr10!
+Missing character: There is no † in font plr10!
+Missing character: There is no Ñ in font plr10!
+Missing character: There is no ¿ in font plr10!
+Missing character: There is no Ñ in font plr10!
+Missing character: There is no Ë in font plr10!
+Missing character: There is no Ö in font plr10!
+Missing character: There is no Ñ in font plr10!
+Missing character: There is no ¿ in font plr10!
+Missing character: There is no Ñ in font plr10!
+Missing character: There is no  in font plr10!
+Missing character: There is no ã in font plmi10!
+Missing character: There is no Ë in font plr10!
+Missing character: There is no ç in font plr10!
+Missing character: There is no Ñ in font plr10!
+Missing character: There is no ¿ in font plr10!
+Missing character: There is no Ñ in font plr10!
+Missing character: There is no … in font plr10!
+Missing character: There is no ã in font plmi10!
+Missing character: There is no Ë in font plr10!
+Missing character: There is no Ñ in font plr10!
+Missing character: There is no ¿ in font plr10!
+Missing character: There is no Ñ in font plr10!
+Missing character: There is no ∑ in font plr10!
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   ^^A
+l.9 ...¿^^OÑ…^^A^^@^^@Iã|$^^HËW^^B^^@^^@Ñ¿^^OÑ∑^^A
+                                                  ^^@^^@Iã<$Ë@^^B^^@^^@Ñ¿^^O...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+Missing character: There is no ã in font plmi10!
+Missing character: There is no Ë in font plr10!
+Missing character: There is no Ñ in font plr10!
+Missing character: There is no ¿ in font plr10!
+Missing character: There is no Ö in font plr10!
+Missing character: There is no ï in font plr10!
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   ^^A
+l.9 ...^@Ñ¿^^OÑ∑^^A^^@^^@Iã<$Ë@^^B^^@^^@Ñ¿^^OÖï^^A
+                                                  ^^@^^@Iã}^^@Ë/^^B^^@^^@Ñ¿^...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+l.9 ...^^A^^@^^@Iã<$Ë@^^B^^@^^@Ñ¿^^OÖï^^A^^@^^@Iã}
+                                                  ^^@Ë/^^B^^@^^@Ñ¿^^OÖÑ^^A^^...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+Missing character: There is no ã in font plmi10!
+Missing character: There is no Ë in font plr10!
+Missing character: There is no Ñ in font plr10!
+Missing character: There is no ¿ in font plr10!
+Missing character: There is no Ö in font plr10!
+Missing character: There is no Ñ in font plr10!
+Missing character: There is no ã in font plmi10!
+Missing character: There is no Ë in font plr10!
+
+Overfull \hbox (51.62782pt too wide) in paragraph at lines 9--9
+[]\tenrm 8^^X^^B$[]\teni usr=lib=libSystem:B:dylib \tensy ^^Z \teni ^^UUHAWAVAU
+ATSH\tenrm 8\teni HuI \tensy ^ \teni @CH \tenrm = 0\teni ^^LID$\tenrm ^^PHEIã
+|$\tensy ^^Z \teni IT$\tenrm ^^XHU^^O^^B^^BIã|$\tensy  |
+
+\hbox(9.10184+3.55557)x469.75499, glue set - 1.0
+.\hbox(0.0+0.0)x20.0
+.\tenrm 8
+.\tenrm ^^X
+.\tenrm ^^B
+.\mathon
+.etc.
+
+Missing character: There is no â in font plr10!
+Missing character: There is no ∏ in font plr10!
+! Extra }, or forgotten $.
+l.9 ...ã<$Ë^^L^^B^^@^^@HâE∏Iã<$Ë^^E^^B^^@^^@Hâ√Iã}
+                                                  ^^@Ë˘^^A^^@^^@HãU∞Hã:ËÁ^^A...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Extra }, or forgotten $.
+l.9 ...Hã:ËÁ^^A^^@^^@HâE¿HãE∞Hã8Ë›^^A^^@^^@HâE»Iã}
+                                                  ^^@Ë ^^A^^@^^@H9√t^^LHç=^^...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.9 ...∞Hã8Ë›^^A^^@^^@HâE»Iã}^^@Ë ^^A^^@^^@H9√t^^L
+                                                  Hç=^^D^^C^^@^^@Ëß^^A^^@^^@...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+Missing character: There is no Ë in font plr10!
+Missing character: There is no â in font plr10!
+Missing character: There is no √ in font plr10!
+Missing character: There is no ã in font plmi10!
+Missing character: There is no Ë in font plr10!
+Missing character: There is no ˘ in font plr10!
+Missing character: There is no ã in font plmi10!
+Missing character: There is no ∞ in font plr10!
+Missing character: There is no ã in font plmi10!
+Missing character: There is no Ë in font plr10!
+Missing character: There is no Á in font plr10!
+Missing character: There is no â in font plr10!
+Missing character: There is no ¿ in font plr10!
+Missing character: There is no ã in font plmi10!
+Missing character: There is no ∞ in font plr10!
+Missing character: There is no ã in font plmi10!
+Missing character: There is no Ë in font plr10!
+Missing character: There is no › in font plr10!
+Missing character: There is no â in font plr10!
+Missing character: There is no » in font plr10!
+Missing character: There is no ã in font plmi10!
+Missing character: There is no Ë in font plr10!
+Missing character: There is no   in font plr10!
+Missing character: There is no √ in font plr10!
+Missing character: There is no ç in font plr10!
+Missing character: There is no Ë in font plr10!
+Missing character: There is no ß in font plr10!
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   ^^A
+l.9 ...ã}^^@Ë ^^A^^@^^@H9√t^^LHç=^^D^^C^^@^^@Ëß^^A
+                                                  ^^@^^@HãU†Hã:Ë≠^^A^^@^^@H9...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing { inserted.
+<to be read again> 
+                   ^^A
+l.9 ...^@Ëß^^A^^@^^@HãU†Hã:Ë≠^^A^^@^^@H9E¿^^OÑ^^^A
+                                                  ^^@^^@Hç=
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+! Missing } inserted.
+<inserted text> 
+                }
+<to be read again> 
+                   $
+l.10 ^^C^^@^^@ËÖ^^A^^@^^@Iã<$
+                             Ëö^^A^^@^^@Iâ«Iã}^^@Ëé^^A^^@^^@Iâ∆HãU∞Hã:Ëm^^A^...
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+Missing character: There is no ã in font plmi10!
+Missing character: There is no † in font plr10!
+Missing character: There is no ã in font plmi10!
+Missing character: There is no Ë in font plr10!
+Missing character: There is no ≠ in font plr10!
+Missing character: There is no ¿ in font plr10!
+Missing character: There is no Ñ in font plr10!
+Missing character: There is no ç in font plr7!
+Missing character: There is no Ë in font plr7!
+Missing character: There is no Ö in font plr7!
+Missing character: There is no ã in font plmi7!
+Missing character: There is no Ë in font plr10!
+Missing character: There is no ö in font plr10!
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   ^^A
+l.10 ^^C^^@^^@ËÖ^^A^^@^^@Iã<$Ëö^^A
+                                  ^^@^^@Iâ«Iã}^^@Ëé^^A^^@^^@Iâ∆HãU∞Hã:Ëm^^A^...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+l.10 ^^C^^@^^@ËÖ^^A^^@^^@Iã<$Ëö^^A^^@^^@Iâ«Iã}
+                                              ^^@Ëé^^A^^@^^@Iâ∆HãU∞Hã:Ëm^^A^...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing { inserted.
+<to be read again> 
+                   ^^A
+l.10 ...^^@^^@Iâ∆HãU∞Hã:Ëm^^A^^@^^@Iâ≈HãE†Hã8Ë^^^A
+                                                  ^^@^^@Iâƒ1“Hãu»Hã}¿ËF^^A^^...
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.10 ...^@^^@E1…CãTç^^@ˇ Cã^^Dåˇ»I^^OØ√ÚA^^O^^P^^L
+                                                  ◊ÚA^^OY^^L^^FÚC^^O^^Q^^L H...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+Missing character: There is no â in font plr10!
+Missing character: There is no « in font plr10!
+Missing character: There is no ã in font plmi10!
+Missing character: There is no Ë in font plr10!
+Missing character: There is no é in font plr10!
+Missing character: There is no â in font plr10!
+Missing character: There is no ∆ in font plr10!
+Missing character: There is no ã in font plmi10!
+Missing character: There is no ∞ in font plr10!
+Missing character: There is no ã in font plmi10!
+Missing character: There is no Ë in font plr10!
+Missing character: There is no â in font plr10!
+Missing character: There is no ≈ in font plr10!
+Missing character: There is no ã in font plmi10!
+Missing character: There is no † in font plr10!
+Missing character: There is no ã in font plmi10!
+Missing character: There is no Ë in font plr10!
+Missing character: There is no â in font plr7!
+Missing character: There is no ƒ in font plr7!
+Missing character: There is no “ in font plr7!
+Missing character: There is no ã in font plmi7!
+Missing character: There is no » in font plr7!
+Missing character: There is no ã in font plmi7!
+Missing character: There is no ¿ in font plr10!
+Missing character: There is no Ë in font plr10!
+Missing character: There is no â in font plr10!
+Missing character: There is no « in font plr10!
+Missing character: There is no ã in font plmi10!
+Missing character: There is no ® in font plr10!
+Missing character: There is no â in font plr10!
+Missing character: There is no Ö in font plr10!
+Missing character: There is no ¿ in font plr10!
+Missing character: There is no Ñ in font plr10!
+Missing character: There is no Ë in font plr7!
+Missing character: There is no â in font plr10!
+Missing character: There is no ¬ in font plr10!
+Missing character: There is no ã in font plmi10!
+Missing character: There is no » in font plr10!
+Missing character: There is no ¿ in font plr10!
+Missing character: There is no Ö in font plr10!
+Missing character: There is no ˆ in font plr10!
+Missing character: There is no Ñ in font plr10!
+Missing character: There is no Ö in font plr10!
+Missing character: There is no ç in font plr10!
+Missing character: There is no › in font plr10!
+Missing character: There is no … in font plr10!
+Missing character: There is no ã in font plmi10!
+Missing character: There is no ç in font plr10!
+Missing character: There is no   in font plr10!
+Missing character: There is no ã in font plmi10!
+Missing character: There is no å in font plr10!
+Missing character: There is no » in font plr10!
+Missing character: There is no √ in font plr10!
+Missing character: There is no Ú in font plr10!
+Missing character: There is no ◊ in font plr10!
+Missing character: There is no Ú in font plr10!
+Missing character: There is no Ú in font plr10!
+Missing character: There is no   in font plr10!
+Missing character: There is no É in font plr10!
+Missing character: There is no ˚ in font plr10!
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   ^^A
+l.10 ...ÚA^^O^^P^^L◊ÚA^^OY^^L^^FÚC^^O^^Q^^L HÉ˚^^A
+                                                  vIHãM∏A∏^^A^^@^^@^^@^^O^^_...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.10 ...^^@ÚA^^O^^P^^D◊ÚA^^OY^^D∆Ú^^OX»ÚC^^O^^Q^^L
+                                                   Iˇ¿H^^CM∏I9ÿu∆Iˇ¡I9ÒuÜHÉƒ...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+Missing character: There is no ã in font plmi10!
+Missing character: There is no ∏ in font plr10!
+Missing character: There is no ∏ in font plr10!
+Missing character: There is no ã in font plmi10!
+Missing character: There is no ç in font plr10!
+Missing character: There is no   in font plr10!
+Missing character: There is no   in font plr7!
+Missing character: There is no ã in font plmi10!
+Missing character: There is no å in font plr10!
+Missing character: There is no » in font plr10!
+Missing character: There is no √ in font plr10!
+Missing character: There is no ç in font plr10!
+Missing character: There is no Ú in font plr10!
+Missing character: There is no ◊ in font plr10!
+Missing character: There is no Ú in font plr10!
+Missing character: There is no ∆ in font plr10!
+Missing character: There is no Ú in font plr10!
+Missing character: There is no » in font plr10!
+Missing character: There is no Ú in font plr10!
+Missing character: There is no   in font plr10!
+Missing character: There is no ¿ in font plr10!
+Missing character: There is no ∏ in font plr10!
+Missing character: There is no ÿ in font plr10!
+Missing character: There is no ∆ in font plr10!
+Missing character: There is no ¡ in font plr10!
+Missing character: There is no Ò in font plr10!
+Missing character: There is no É in font plr10!
+Missing character: There is no ƒ in font plr10!
+! Undefined control sequence.
+l.10 ...ÚC^^O^^Q^^L Iˇ¿H^^CM∏I9ÿu∆Iˇ¡I9ÒuÜHÉƒ8[A\A
+                                                  ]A^A_…√Hç=π^^A^^@^^@Ës^^@^...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   ^
+l.10 ...^O^^Q^^L Iˇ¿H^^CM∏I9ÿu∆Iˇ¡I9ÒuÜHÉƒ8[A\A]A^
+                                                  A_…√Hç=π^^A^^@^^@Ës^^@^^@^...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.11 ...^@^^@^^@H9E»^^OÖå˛ˇˇÈì˛ˇˇHç=π^^A^^@^^@Ë^^L
+                                                  ^^@^^@^^@HãE®Hã8È”˛ˇˇˇ%ä^^...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+Missing character: There is no … in font plr7!
+Missing character: There is no √ in font plr10!
+Missing character: There is no ç in font plr10!
+Missing character: There is no π in font plmi10!
+Missing character: There is no Ë in font plr7!
+Missing character: There is no È in font plr10!
+Missing character: There is no ˛ in font plr10!
+Missing character: There is no ç in font plr10!
+Missing character: There is no á in font plr10!
+Missing character: There is no Ë in font plr7!
+Missing character: There is no È in font plr10!
+Missing character: There is no ˛ in font plr10!
+Missing character: There is no ç in font plr10!
+Missing character: There is no Ë in font plr7!
+Missing character: There is no È in font plr10!
+Missing character: There is no ˝ in font plr10!
+Missing character: There is no œ in font plr10!
+Missing character: There is no Ñ in font plr10!
+Missing character: There is no ¡ in font plr10!
+Missing character: There is no ˝ in font plr10!
+Missing character: There is no ç in font plr10!
+Missing character: There is no Ë in font plr7!
+Missing character: There is no È in font plr10!
+Missing character: There is no ∞ in font plr10!
+Missing character: There is no ˝ in font plr10!
+Missing character: There is no ã in font plmi10!
+Missing character: There is no † in font plr10!
+Missing character: There is no ã in font plmi10!
+Missing character: There is no Ë in font plr10!
+Missing character: There is no » in font plr10!
+Missing character: There is no Ö in font plr10!
+Missing character: There is no å in font plr10!
+Missing character: There is no ˛ in font plr10!
+Missing character: There is no È in font plr10!
+Missing character: There is no ì in font plr10!
+Missing character: There is no ˛ in font plr10!
+Missing character: There is no ç in font plr10!
+Missing character: There is no π in font plmi10!
+Missing character: There is no Ë in font plr7!
+Missing character: There is no ® in font plr10!
+Missing character: There is no È in font plr10!
+Missing character: There is no ˛ in font plr10!
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   ^^A
+l.13 ...^@^^@^^@^^@4^^@^^@^^@^^C^^@^^@^^@^^L^^@^^A
+                                                  ^^@^^P^^@^^A^^@^^@^^@^^@^^...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Double subscript.
+l.13 ...^^@^^@^^@^^C^^@^^@^^@^^L^^@^^A^^@^^P^^@^^A
+                                                  ^^@^^@^^@^^@^^@—X^^E^^A^^@...
+I treat `x_1_2' essentially like `x_1{}_2'.
+
+! Double subscript.
+l.13 ...^^@^^@^^@^^@^^@^^T^^@^^@^^@^^@^^@^^@^^@^^A
+                                                  zR^^@^^Ax^^P^^A^^P^^L^^G^^...
+I treat `x_1_2' essentially like `x_1{}_2'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.13 ...^^@^^@^^@^^@^^@^^@^^AzR^^@^^Ax^^P^^A^^P^^L
+                                                  ^^G^^Hê^^A^^@^^@4^^@^^@^^@...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+Missing character: There is no — in font plr7!
+Missing character: There is no ê in font plr10!
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   ^^A
+l.13 ...^@^^@^^@^^AzR^^@^^Ax^^P^^A^^P^^L^^G^^Hê^^A
+                                                  ^^@^^@4^^@^^@^^@^^\^^@^^@^...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing { inserted.
+<to be read again> 
+                   _
+l.23 ...e^^@ê^^@qP^^Q@_mxIsUint32^^@ê^^@^^@^^@^^A_
+                                                  mexFunction^^@^^P^^C^^@–^^...
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+! Missing { inserted.
+<to be read again> 
+                   ^^A
+l.24 ...^^@^^@^^@^^@^^@^^@^^]^^@^^@^^@^^A^^@^^@^^A
+                                                  ^^@^^@^^@^^@^^@^^@^^@^^@7^...
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+! Double subscript.
+l.24 ...^@^^A^^@^^@^^@^^@^^@^^@^^@^^@7^^@^^@^^@^^A
+                                                  ^^@^^@^^A^^@^^@^^@^^@^^@^^...
+I treat `x_1_2' essentially like `x_1{}_2'.
+
+! Missing { inserted.
+<to be read again> 
+                   ^^A
+l.24 ...^@^^@^^@^^@^^@^^@^^@7^^@^^@^^@^^A^^@^^@^^A
+                                                  ^^@^^@^^@^^@^^@^^@^^@^^@B^...
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+! Double subscript.
+l.24 ...^@^^A^^@^^@^^@^^@^^@^^@^^@^^@B^^@^^@^^@^^A
+                                                  ^^@^^@^^A^^@^^@^^@^^@^^@^^...
+I treat `x_1_2' essentially like `x_1{}_2'.
+
+! Missing { inserted.
+<to be read again> 
+                   ^^A
+l.24 ...^@^^@^^@^^@^^@^^@^^@B^^@^^@^^@^^A^^@^^@^^A
+                                                  ^^@^^@^^@^^@^^@^^@^^@^^@J^...
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+! Double subscript.
+l.24 ...^@^^A^^@^^@^^@^^@^^@^^@^^@^^@J^^@^^@^^@^^A
+                                                  ^^@^^@^^A^^@^^@^^@^^@^^@^^...
+I treat `x_1_2' essentially like `x_1{}_2'.
+
+! Missing { inserted.
+<to be read again> 
+                   ^^A
+l.24 ...^@^^@^^@^^@^^@^^@^^@J^^@^^@^^@^^A^^@^^@^^A
+                                                  ^^@^^@^^@^^@^^@^^@^^@^^@R^...
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+! Double subscript.
+l.24 ...^@^^A^^@^^@^^@^^@^^@^^@^^@^^@R^^@^^@^^@^^A
+                                                  ^^@^^@^^A^^@^^@^^@^^@^^@^^...
+I treat `x_1_2' essentially like `x_1{}_2'.
+
+! Missing { inserted.
+<to be read again> 
+                   ^^A
+l.24 ...^@^^@^^@^^@^^@^^@^^@R^^@^^@^^@^^A^^@^^@^^A
+                                                  ^^@^^@^^@^^@^^@^^@^^@^^@[^...
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+! Double subscript.
+l.24 ...^@^^A^^@^^@^^@^^@^^@^^@^^@^^@[^^@^^@^^@^^A
+                                                  ^^@^^@^^A^^@^^@^^@^^@^^@^^...
+I treat `x_1_2' essentially like `x_1{}_2'.
+
+! Missing { inserted.
+<to be read again> 
+                   ^^A
+l.24 ...^@^^@^^@^^@^^@^^@^^@[^^@^^@^^@^^A^^@^^@^^A
+                                                  ^^@^^@^^@^^@^^@^^@^^@^^@h^...
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+! Double subscript.
+l.24 ...^@^^A^^@^^@^^@^^@^^@^^@^^@^^@h^^@^^@^^@^^A
+                                                  ^^@^^@^^A^^@^^@^^@^^@^^@^^...
+I treat `x_1_2' essentially like `x_1{}_2'.
+
+! Missing { inserted.
+<to be read again> 
+                   ^^A
+l.24 ...^@^^@^^@^^@^^@^^@^^@h^^@^^@^^@^^A^^@^^@^^A
+                                                  ^^@^^@^^@^^@^^@^^@^^@^^@t^...
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+! Double subscript.
+l.24 ...^@^^A^^@^^@^^@^^@^^@^^@^^@^^@t^^@^^@^^@^^A
+                                                  ^^@^^@^^A^^@^^@^^@^^@^^@^^...
+I treat `x_1_2' essentially like `x_1{}_2'.
+
+! Missing { inserted.
+<to be read again> 
+                   ^^A
+l.24 ...^@^^@^^@^^@^^@^^@^^@t^^@^^@^^@^^A^^@^^@^^A
+                                                  ^^@^^@^^@^^@^^@^^@^^@^^@Ä^...
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+! Double subscript.
+l.24 ...^@^^A^^@^^@^^@^^@^^@^^@^^@^^@Ä^^@^^@^^@^^A
+                                                  ^^@^^@^^E^^@^^@^^@^^@^^@^^...
+I treat `x_1_2' essentially like `x_1{}_2'.
+
+! Double subscript.
+l.24 ...^^@^^A^^@^^@^^E^^@^^@^^@^^@^^@^^@^^@^^@^^A
+                                                  ^^@^^@^^@^^B^^@^^@^^@^^C^^...
+I treat `x_1_2' essentially like `x_1{}_2'.
+
+)
+! Emergency stop.
+<*> spmaskmult.mexmaci64
+                        
+*** (job aborted, no legal \end found)
+
+No pages of output.
