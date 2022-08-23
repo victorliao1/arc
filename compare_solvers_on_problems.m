@@ -11,22 +11,21 @@ clear; clc;
 % Fix randomness
 rng(2019);
 
-% cd example_problems;
-% addpath(genpath(pwd()));
+cd example_problems;
 
 %% Build a collection of problems
-% problems = { ...
-%              dominant_invariant_subspace_problem([],  512, 12), ... % A = gallery('wathen', 100, 100, 1); to try? large, sparse
-%              truncated_svd_problem([], 168, 240, 20), ...
-%              lrmc_grassmann(2000, 5000, 10, 4), ...
-%              maxcut(22), ...
-%              rotation_synchronization(3, 50, .75), ...
-%              shapefit_leastsquares(500, 3), ...
-% };
 
 problems = { ...
-        maxcut(70)...
+        elliptope_SDP(1000) ...
+        maxcut(50)...
+        truncated_svd_problem([], 210, 300, 25), ...
+        rotation_synchronization(3, 100, .75)
 };
+% problems = { ...
+%         maxcut(22)
+
+% };
+% 
 nproblems = numel(problems);
 
 % Each problem structure must have a 'name' field (a string) for display.
@@ -48,8 +47,9 @@ end
 % structures. You can have the same solver multiple times with different
 % options if that's relevant. Notice that we add the 'name' field, which is
 % used to display results.
-solvers_and_options = {struct('solver', @trustregions, 'subproblemsolver', @trs_tCG_cached, 'name', 'RTR_cached'), ...
+solvers_and_options = {struct('solver', @trustregions, 'subproblemsolver', @trs_tCG_cached, 'name', 'RTR cached') ...
                 	struct('solver', @trustregions, 'subproblemsolver', @trs_tCG, 'name', 'RTR'), ...
+%                 	struct('solver', @trustregions, 'subproblemsolver', @trs_gep, 'name', 'TRS_gep'), ...
                  ... % struct('solver', @arc, 'theta', 0.25, 'subproblemsolver', @arc_lanczos, 'sigma_min', 1e-10, 'name', 'ARC (Lanczos, \theta = .25)'), ...
                  ... % struct('solver', @arc, 'theta', 2.00, 'subproblemsolver', @arc_lanczos, 'sigma_min', 1e-10, 'name', 'ARC (Lanczos, \theta = 2)'), ...
                  ... % struct('solver', @arc, 'theta', 0.02, 'subproblemsolver', @arc_lanczos, 'sigma_min', 1e-10, 'name', 'ARC (Lanczos, \theta = .02)'), ...
@@ -110,36 +110,36 @@ for P = 1 : nproblems
         fprintf(fileID, '.\n');
     end
     f1 = fieldnames(infos{P, 1});
-    f2 = fieldnames(infos{P, 2});
-    assert(isequaln(f1, f2));
+%     f2 = fieldnames(infos{P, 2});
+%     assert(isequaln(f1, f2));
     rejnum = length([infos{P, 1}(:).accepted]) - sum([infos{P, 1}(:).accepted]);
     totaliter = length([infos{P, 1}(:).accepted]);
     fprintf(fileID, 'rejections/total = %d / %d\n', rejnum, totaliter);
     for i=1:length(f1)
-        if strcmp(f1{i},'time') || strcmp(f1{i}, 'hesscalls') || strcmp(f1{i}, 'gradhesscalls') || strcmp(f1{i},'timeit') || strcmp(f1{i}, 'memory')
+        if strcmp(f1{i},'time') || strcmp(f1{i}, 'hesscalls') || strcmp(f1{i}, 'gradhesscalls') || strcmp(f1{i},'timeit') || strcmp(f1{i}, 'memorytCG_MB')
             continue;
         end
-        assert(isequaln([infos{P, 1}(:).(f1{i})],[infos{P, 2}(:).(f1{i})]));
+%         assert(isequaln([infos{P, 1}(:).(f1{i})],[infos{P, 2}(:).(f1{i})]));
     end
 end
 
-% cd ..;
+cd ..;
 
 %% Plot results
-subplot_rows = 3;
+subplot_rows = 4;
 subplot_cols = 2;
 assert(subplot_rows * subplot_cols >= nproblems, ...
        sprintf('Choose subplot size to fit all %d problems.', nproblems));
-xmetric = {'iter',     'time',     'gradhesscalls', 'timeit', 'iter'};
+xmetric = {'iter',     'time',     'gradhesscalls', 'iter', 'timeit'};
 xscale  = {'linear',   'linear',   'linear', 'linear', 'linear'};
-ymetric = {'gradnorm', 'gradnorm', 'gradnorm', 'gradnorm', 'memory'};
-yscale  = {'log',      'log',      'log', 'log', 'log'};
+ymetric = {'gradnorm', 'gradnorm', 'gradnorm', 'memorytCG_MB', 'iter'};
+yscale  = {'log',      'log',      'log', 'log', 'linear'};
 axisnames.iter = 'Iteration #';
 axisnames.time = 'Time [s]';
 axisnames.gradhesscalls = '# gradient calls and Hessian-vector products';
 axisnames.gradnorm = 'Gradient norm';
 axisnames.timeit = 'timeit [s]';
-axisnames.memory = 'memory [MB]';
+axisnames.memorytCG_MB = 'memory [MB]';
 nmetrics = numel(xmetric);
 assert(numel(ymetric) == nmetrics);
 for metric = 1 : nmetrics
@@ -162,6 +162,9 @@ for metric = 1 : nmetrics
         if P == 1
 		    legend('show');
         end
+
+        ylabel(axisnames.(ymetric{metric}));
+        xlabel(axisnames.(xmetric{metric}));
         if ismember(P, [1, 3, 5])
             ylabel(axisnames.(ymetric{metric}));
         end

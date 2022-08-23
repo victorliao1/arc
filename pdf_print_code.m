@@ -32,6 +32,6 @@ function pdf_print_code(h, filename, fontsz)
 
     % Hopefully, pdfcrop is installed so we can get rid of extra white space
     margins = 1;
-    system(sprintf('pdfcrop -margins %d %s %s', margins, filename, filename));
+    system(sprintf('/Library/TeX/texbin/pdfcrop -margins %d %s %s', margins, filename, filename));
     
 end
