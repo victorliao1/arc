@@ -101,11 +101,7 @@ for P = 1 : nproblems
     fprintf('Solving %s\n', problems{P}.name);
     for S = 1 : nsolvers
         fprintf(fileID, '\twith %s.\n', solvers_and_options{S}.name);
-        [x, cost, info, ~, timeit] = manoptsolve(problems{P}, inits{P}, solvers_and_options{S});
-        for g=1:length(info(:))
-            info(g).timeit = timeit;
-        end
-        fprintf(fileID, 'timeit = %f [s]', timeit);
+        [x, cost, info, ~] = manoptsolve(problems{P}, inits{P}, solvers_and_options{S});
         infos{P, S} = info;
         fprintf(fileID, '.\n');
     end
@@ -130,10 +126,10 @@ subplot_rows = 4;
 subplot_cols = 2;
 assert(subplot_rows * subplot_cols >= nproblems, ...
        sprintf('Choose subplot size to fit all %d problems.', nproblems));
-xmetric = {'iter',     'time',     'gradhesscalls', 'iter', 'timeit'};
-xscale  = {'linear',   'linear',   'linear', 'linear', 'linear'};
-ymetric = {'gradnorm', 'gradnorm', 'gradnorm', 'memorytCG_MB', 'iter'};
-yscale  = {'log',      'log',      'log', 'log', 'linear'};
+xmetric = {'iter',     'time',     'gradhesscalls', 'iter',};
+xscale  = {'linear',   'linear',   'linear', 'linear', };
+ymetric = {'gradnorm', 'gradnorm', 'gradnorm', 'memorytCG_MB'};
+yscale  = {'log',      'log',      'log', 'log'};
 axisnames.iter = 'Iteration #';
 axisnames.time = 'Time [s]';
 axisnames.gradhesscalls = '# gradient calls and Hessian-vector products';
